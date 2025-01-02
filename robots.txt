@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pocongmini.github.io/kane/sitemap.xml
